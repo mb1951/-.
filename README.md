@@ -6,7 +6,7 @@
 <p align="center">Кратюк Поліна Анатоліївна</p>
 <h1 align="center">Мова HTML</h1>
 <h2 align="center">Історія мови</h2>
-<img src="Tim_Berners-Lee.jpg" width="100" align="left">
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c8/Tim_Berners-Lee_April_2009.jpg/800px-Tim_Berners-Lee_April_2009.jpg" width="100" align="left">
 <p align="justify">Опис мови HTML вперше був запропонований у 1991 році британським
 вченим <b>Тімом Бернерс-Лі</b> (нар. у 1955 р.). У документі з назвою
 <a href="http://info.cern.ch/hypertext/WWW/MarkUp/Tags.html"> HTML Tags</a> містився
