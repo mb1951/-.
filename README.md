@@ -3,7 +3,7 @@
 <head>
 <title>Мова HTML</title>
 
-<p align="center">Кратюк Поліна Анатоліївна</p>
+<p align="center"> Вовк Костянтин Андрійович </p>
 <h1 align="center">Мова HTML</h1>
 <h2 align="center">Історія мови</h2>
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c8/Tim_Berners-Lee_April_2009.jpg/800px-Tim_Berners-Lee_April_2009.jpg" width="100" align="left">
